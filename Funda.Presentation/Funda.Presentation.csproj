@@ -14,13 +14,9 @@
     <ProjectReference Include="..\Funda.Client\Funda.Client.csproj" />
     <ProjectReference Include="..\Funda.DataContract\Funda.DataContract.csproj" />
     <ProjectReference Include="..\Funda.Exception\Funda.Exception.csproj" />
+    <ProjectReference Include="..\Funda.ServiceContract\Funda.ServiceContract.csproj" />
     <ProjectReference Include="..\Funda.Service\Funda.Service.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Reference Include="Funda.ServiceContract">
-      <HintPath>..\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.ServiceContract.dll</HintPath>
-    </Reference>
-  </ItemGroup>
-
 </Project>
+
