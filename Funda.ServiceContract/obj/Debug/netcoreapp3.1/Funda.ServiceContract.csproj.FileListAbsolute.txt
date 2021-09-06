@@ -1,0 +1,11 @@
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.ServiceContract.deps.json
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.ServiceContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.ServiceContract.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.DataContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.DataContract.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\obj\Debug\netcoreapp3.1\Funda.ServiceContract.csprojAssemblyReference.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\obj\Debug\netcoreapp3.1\Funda.ServiceContract.AssemblyInfoInputs.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\obj\Debug\netcoreapp3.1\Funda.ServiceContract.AssemblyInfo.cs
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\obj\Debug\netcoreapp3.1\Funda.ServiceContract.csproj.CopyComplete
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\obj\Debug\netcoreapp3.1\Funda.ServiceContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.ServiceContract\obj\Debug\netcoreapp3.1\Funda.ServiceContract.pdb

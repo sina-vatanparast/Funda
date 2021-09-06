@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Funda.DataContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Funda.DataContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funda.DataContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funda.DataContract/1.0.0": {
+      "type": "project",
+      "path": "../Funda.DataContract/Funda.DataContract.csproj",
+      "msbuildProject": "../Funda.DataContract/Funda.DataContract.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Funda.DataContract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vahid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.ServiceContract\\Funda.ServiceContract.csproj",
+      "projectName": "Funda.ServiceContract",
+      "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.ServiceContract\\Funda.ServiceContract.csproj",
+      "packagesPath": "C:\\Users\\Vahid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.ServiceContract\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Vahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.DataContract\\Funda.DataContract.csproj": {
+              "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.DataContract\\Funda.DataContract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
