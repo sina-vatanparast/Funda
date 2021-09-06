@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Funda.DataContract\Funda.DataContract.csproj" />
+    <ProjectReference Include="..\Funda.ServiceContract\Funda.ServiceContract.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.Service.deps.json
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.Service.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.Service.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.DataContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.ServiceContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.DataContract.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\bin\Debug\netcoreapp3.1\Funda.ServiceContract.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\obj\Debug\netcoreapp3.1\Funda.Service.csprojAssemblyReference.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\obj\Debug\netcoreapp3.1\Funda.Service.AssemblyInfoInputs.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\obj\Debug\netcoreapp3.1\Funda.Service.AssemblyInfo.cs
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\obj\Debug\netcoreapp3.1\Funda.Service.csproj.CopyComplete
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\obj\Debug\netcoreapp3.1\Funda.Service.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.Service\obj\Debug\netcoreapp3.1\Funda.Service.pdb
