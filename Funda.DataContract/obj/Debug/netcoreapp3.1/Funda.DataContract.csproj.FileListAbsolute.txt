@@ -1,0 +1,8 @@
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\bin\Debug\netcoreapp3.1\Funda.DataContract.deps.json
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\bin\Debug\netcoreapp3.1\Funda.DataContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\bin\Debug\netcoreapp3.1\Funda.DataContract.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\obj\Debug\netcoreapp3.1\Funda.DataContract.AssemblyInfoInputs.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\obj\Debug\netcoreapp3.1\Funda.DataContract.AssemblyInfo.cs
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\obj\Debug\netcoreapp3.1\Funda.DataContract.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\obj\Debug\netcoreapp3.1\Funda.DataContract.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.DataContract\obj\Debug\netcoreapp3.1\Funda.DataContract.csprojAssemblyReference.cache
