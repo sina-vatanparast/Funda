@@ -4,10 +4,6 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>C:\Users\Vahid\Downloads\Funda (2)\Funda\Funda.ServiceContract\Funda.ServiceContract.xml</DocumentationFile>
-  </PropertyGroup>
-
   <ItemGroup>
     <ProjectReference Include="..\Funda.DataContract\Funda.DataContract.csproj" />
   </ItemGroup>
