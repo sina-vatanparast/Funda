@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funda.DataContract", "Funda.DataContract\Funda.DataContract.csproj", "{F8038E69-81CF-4FCD-B825-B097060F71CC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funda.ServiceContract", "Funda.ServiceContract\Funda.ServiceContract.csproj", "{80F175FD-4488-46B3-BE46-C1D7D7EA2E3D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funda.Client", "Funda.Client\Funda.Client.csproj", "{97444ABE-9A1A-41E8-B398-D98C0E8CA4A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funda.Presentation", "Funda.Presentation\Funda.Presentation.csproj", "{C9BDC8B1-6AEF-440A-A889-99010AE814A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funda.Service", "Funda.Service\Funda.Service.csproj", "{4D3EF988-49B6-465B-8380-B84A0F455817}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funda.Exception", "Funda.Exception\Funda.Exception.csproj", "{AEDB75C4-6D2C-4219-8DEA-91CF5CB41C09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8038E69-81CF-4FCD-B825-B097060F71CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8038E69-81CF-4FCD-B825-B097060F71CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8038E69-81CF-4FCD-B825-B097060F71CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8038E69-81CF-4FCD-B825-B097060F71CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F175FD-4488-46B3-BE46-C1D7D7EA2E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F175FD-4488-46B3-BE46-C1D7D7EA2E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F175FD-4488-46B3-BE46-C1D7D7EA2E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F175FD-4488-46B3-BE46-C1D7D7EA2E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97444ABE-9A1A-41E8-B398-D98C0E8CA4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97444ABE-9A1A-41E8-B398-D98C0E8CA4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97444ABE-9A1A-41E8-B398-D98C0E8CA4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97444ABE-9A1A-41E8-B398-D98C0E8CA4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9BDC8B1-6AEF-440A-A889-99010AE814A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9BDC8B1-6AEF-440A-A889-99010AE814A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9BDC8B1-6AEF-440A-A889-99010AE814A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9BDC8B1-6AEF-440A-A889-99010AE814A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D3EF988-49B6-465B-8380-B84A0F455817}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D3EF988-49B6-465B-8380-B84A0F455817}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D3EF988-49B6-465B-8380-B84A0F455817}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D3EF988-49B6-465B-8380-B84A0F455817}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEDB75C4-6D2C-4219-8DEA-91CF5CB41C09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEDB75C4-6D2C-4219-8DEA-91CF5CB41C09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEDB75C4-6D2C-4219-8DEA-91CF5CB41C09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEDB75C4-6D2C-4219-8DEA-91CF5CB41C09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15D4351E-5081-4EC2-8827-B2BCC5588161}
+	EndGlobalSection
+EndGlobal
