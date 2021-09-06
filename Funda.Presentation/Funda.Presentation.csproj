@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>5531c17d-f878-46b8-9190-643c9b02b3b7</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Funda.Client\Funda.Client.csproj" />
+    <ProjectReference Include="..\Funda.DataContract\Funda.DataContract.csproj" />
+    <ProjectReference Include="..\Funda.Exception\Funda.Exception.csproj" />
+    <ProjectReference Include="..\Funda.Service\Funda.Service.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Funda.ServiceContract">
+      <HintPath>..\Funda.ServiceContract\bin\Debug\netcoreapp3.1\Funda.ServiceContract.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

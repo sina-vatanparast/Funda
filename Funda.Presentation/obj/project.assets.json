@@ -1,0 +1,230 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Funda.Client/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Funda.DataContract": "1.0.0",
+          "Funda.Exception": "1.0.0",
+          "Funda.ServiceContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Funda.Client.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funda.Client.dll": {}
+        }
+      },
+      "Funda.DataContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Funda.DataContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funda.DataContract.dll": {}
+        }
+      },
+      "Funda.Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Funda.Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funda.Exception.dll": {}
+        }
+      },
+      "Funda.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Funda.DataContract": "1.0.0",
+          "Funda.ServiceContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Funda.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funda.Service.dll": {}
+        }
+      },
+      "Funda.ServiceContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Funda.DataContract": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Funda.ServiceContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Funda.ServiceContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Funda.Client/1.0.0": {
+      "type": "project",
+      "path": "../Funda.Client/Funda.Client.csproj",
+      "msbuildProject": "../Funda.Client/Funda.Client.csproj"
+    },
+    "Funda.DataContract/1.0.0": {
+      "type": "project",
+      "path": "../Funda.DataContract/Funda.DataContract.csproj",
+      "msbuildProject": "../Funda.DataContract/Funda.DataContract.csproj"
+    },
+    "Funda.Exception/1.0.0": {
+      "type": "project",
+      "path": "../Funda.Exception/Funda.Exception.csproj",
+      "msbuildProject": "../Funda.Exception/Funda.Exception.csproj"
+    },
+    "Funda.Service/1.0.0": {
+      "type": "project",
+      "path": "../Funda.Service/Funda.Service.csproj",
+      "msbuildProject": "../Funda.Service/Funda.Service.csproj"
+    },
+    "Funda.ServiceContract/1.0.0": {
+      "type": "project",
+      "path": "../Funda.ServiceContract/Funda.ServiceContract.csproj",
+      "msbuildProject": "../Funda.ServiceContract/Funda.ServiceContract.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Funda.Client >= 1.0.0",
+      "Funda.DataContract >= 1.0.0",
+      "Funda.Exception >= 1.0.0",
+      "Funda.Service >= 1.0.0",
+      "Newtonsoft.Json >= 13.0.1"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Vahid\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Presentation\\Funda.Presentation.csproj",
+      "projectName": "Funda.Presentation",
+      "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Presentation\\Funda.Presentation.csproj",
+      "packagesPath": "C:\\Users\\Vahid\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Presentation\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Vahid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Client\\Funda.Client.csproj": {
+              "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Client\\Funda.Client.csproj"
+            },
+            "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.DataContract\\Funda.DataContract.csproj": {
+              "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.DataContract\\Funda.DataContract.csproj"
+            },
+            "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Exception\\Funda.Exception.csproj": {
+              "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Exception\\Funda.Exception.csproj"
+            },
+            "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Service\\Funda.Service.csproj": {
+              "projectPath": "C:\\Users\\Vahid\\Downloads\\Funda (2)\\Funda\\Funda.Service\\Funda.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
