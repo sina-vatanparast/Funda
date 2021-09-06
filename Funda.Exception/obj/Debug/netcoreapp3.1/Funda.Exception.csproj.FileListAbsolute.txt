@@ -1,0 +1,10 @@
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\bin\Debug\netcoreapp3.1\Funda.Exception.deps.json
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\bin\Debug\netcoreapp3.1\Funda.Exception.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\bin\Debug\netcoreapp3.1\Funda.Exception.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.ErrorResource.resources
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.csproj.GenerateResource.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.AssemblyInfoInputs.cache
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.AssemblyInfo.cs
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.dll
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.pdb
+C:\Users\vatansi1\source\repos\Funda\Funda.Exception\obj\Debug\netcoreapp3.1\Funda.Exception.csprojAssemblyReference.cache
